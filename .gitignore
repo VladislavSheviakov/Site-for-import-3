@@ -1,0 +1,6 @@
+tmp/
+*_old
+*_backup
+thumbs.db
+.DS_Store
+NeuroStartUp.png_backup
